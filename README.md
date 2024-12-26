@@ -1,2 +1,2 @@
 # ICP
-Bu Motoko kodu, bir telefon rehberi ve mesajlaşma sistemi oluşturan bir aktör tanımlar. 
+Bu Motoko kodu, bir aktör tanımlayarak kullanıcıların telefon numaralarını saklayıp mesaj göndermelerini ve almasını sağlayan basit bir telefon rehberi ve mesajlaşma sistemi oluşturmaktadır.
